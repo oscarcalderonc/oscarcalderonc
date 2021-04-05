@@ -6,9 +6,7 @@
 
 I'm Oscar Calderon, and I'm a backend developer/DevOps engineer. I'm from El Salvador, currently working at @pagerinc. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-<a href="https://github.com/oscarcalderonc/oscarcalderonc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcalderonc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcalderonc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
