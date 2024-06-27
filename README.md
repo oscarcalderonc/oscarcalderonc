@@ -8,6 +8,8 @@ I'm Oscar Calderon, and I'm a backend developer/DevOps engineer. I'm from El Sal
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcalderonc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=oscarcalderonc)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
