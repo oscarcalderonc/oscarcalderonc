@@ -4,9 +4,9 @@
 
 # Hi there ! <img src="https://raw.githubusercontent.com/oscarcalderonc/oscarcalderonc/master/wave.gif" width="30px">
 
-I'm Oscar Calderon, and I'm a backend developer/DevOps engineer. I'm from El Salvador, currently working at @pagerinc. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+I'm Oscar Calderon, and I'm a backend developer/DevOps engineer. I'm from El Salvador, currently working at Fox. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarcalderonc&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&layout=compact" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=oscarcalderonc&layout=compact&langs_count=8&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=oscarcalderonc&layout=compact&langs_count=8&theme=dark_github)
 
 [![trophy](https://github-profile-trophy-winning.vercel.app/?username=oscarcalderonc)](https://github.com/ryo-ma/github-profile-trophy)
 
